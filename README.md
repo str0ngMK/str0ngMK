@@ -16,4 +16,3 @@ I have been working for about 2 years.
 <img alt="Html" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white"/>
 <img alt="Html" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat&logo=mongodb&logoColor=white"/>
 </span>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=str0ngMK&show_icons=true&theme=radical)
